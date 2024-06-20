@@ -4,6 +4,13 @@ This repository serves as a collection of various web development projects. Each
 
 ## Projects
 
+
+1. [crud](https://github.com/SeifAhmed11/crud-using)
+
+2. [chat app](https://github.com/SeifAhmed11/chat-app) 
+
+############################
+
 1. [Roaya Consulting](https://roaya-consulting.com/)
 2. [Dr. Samir Ghoraba](https://drsamirghoraba.com/)
 3. [Filmizone](https://filmizone.net/)
