@@ -5,9 +5,11 @@ This repository serves as a collection of various web development projects. Each
 ## Projects
 
 
-1. [crud](https://github.com/SeifAhmed11/crud-using)
+1. [CV Builder](https://github.com/SeifAhmed11/CV-Builder)
+   
+2. [crud](https://github.com/SeifAhmed11/crud-using)
 
-2. [chat app](https://github.com/SeifAhmed11/chat-app) 
+3. [chat app](https://github.com/SeifAhmed11/chat-app) 
 
 ############################
 
