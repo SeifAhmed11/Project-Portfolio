@@ -4,7 +4,7 @@ This repository serves as a collection of various web development projects. Each
 
 ## Projects
 
-1ز1
+
 
 1. [E-commerce API (Under Development)](https://github.com/SeifAhmed11/API-Ecommerce/tree/master)
    
