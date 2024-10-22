@@ -6,7 +6,7 @@ This repository serves as a collection of various web development projects. Each
 
 
 
-1. [E-commerce API (Under Development)](https://github.com/SeifAhmed11/API-Ecommerce/tree/master)
+1. [E-commerce API](https://github.com/SeifAhmed11/API-Ecommerce/tree/master)
    
 2. [Quiz App](https://github.com/SeifAhmed11/Quiz_App)
    
